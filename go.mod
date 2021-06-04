@@ -31,7 +31,7 @@ require (
 	github.com/kellydunn/golang-geo v0.7.0
 	github.com/klauspost/compress v1.12.2 // indirect
 	github.com/kylelemons/go-gypsy v1.0.0 // indirect
-	github.com/leekchan/accounting v1.0.0
+	github.com/leekchan/accounting v0.3.1
 	github.com/lib/pq v1.10.1 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/lytics/base62 v0.0.0-20180808010106-0ee4de5a5d6d
@@ -40,7 +40,7 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/nyaruka/phonenumbers v1.0.68
-	github.com/oleiade/reflections v1.0.1 // indirect
+	github.com/oleiade/reflections v1.0.1
 	github.com/onsi/ginkgo v1.16.1 // indirect
 	github.com/onsi/gomega v1.11.0 // indirect
 	github.com/pkg/errors v0.9.1
@@ -61,6 +61,5 @@ require (
 	golang.org/x/net v0.0.0-20210502030024-e5908800b52b // indirect
 	golang.org/x/sys v0.0.0-20210502180810-71e4cd670f79 // indirect
 	golang.org/x/text v0.3.6
-	gopkg.in/oleiade/reflections.v1 v1.0.0
 	mellium.im/sasl v0.2.1 // indirect
 )
